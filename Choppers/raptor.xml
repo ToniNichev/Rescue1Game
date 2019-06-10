@@ -1,0 +1,10 @@
+<!-- 
+MAX VALUES:
+chopper acceleration="1.2" speed="19" climb="12" strength="22" bombs="30" machinegun="122" cost="2000"
+ -->
+<chopper acceleration="0.8" speed="10" climb="6" strength="4" bombs="5" bombType="0" machinegun="20" cost="200">
+	<title>Raptor</title>
+	<description>Descriptin</description>
+	<image_a>ch_raptor_a.png</image_a>
+	<image_b>ch_raptor_b.png</image_b>
+</chopper>

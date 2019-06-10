@@ -1,0 +1,86 @@
+<map>
+	<settings>
+		<title>Map One</title>
+		<description></description>
+		<far_background>bg_Teton.png</far_background>
+		<close_background>bg2_Teton.png</close_background>
+		<enemyFireIntensity>80</enemyFireIntensity>
+	</settings>
+
+	<objects>
+		<object id="1" sx="600" ex="690" strength="2">
+			<img>tank1.png</img>
+			<type>tank</type>
+		</object>
+
+
+		
+				
+		<object id="1" sx="700" ex="750" strength="5">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+
+		<object id="1" sx="800" ex="940" strength="2">
+			<img>tank3.png</img>
+			<type>tank</type>
+		</object>		
+		
+		<object id="2" sx="1200" ex="1580" strength="2">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>				
+		<object id="2" sx="1800" ex="2280" strength="3">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>				
+		<object id="2" sx="2400" ex="3000" strength="5">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2500" ex="3000" strength="5">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2100" ex="2800" strength="2">
+			<img>tank1.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2200" ex="3000" strength="2">
+			<img>tank1.png</img>
+			<type>tank</type>
+		</object>
+		
+		<object id="1" sx="500" ex="1200" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+
+		<object id="1" sx="900" ex="1100" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+		
+		<object id="1" sx="1500" ex="1550" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+		
+		<object id="1" sx="2200" ex="2700" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+		
+		<object id="1" sx="2400" ex="2900" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+		
+		<object id="1" sx="40" ex="0" strength="5">
+			<img>building2.png</img>		
+			<type>building</type>
+		</object>
+		
+	</objects>
+	
+</map>

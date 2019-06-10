@@ -1,0 +1,6 @@
+<chopper acceleration="0.15" speed="4" climb="3" strength="15" bombs="30" bombType="1" machinegun="120" cost="500">
+	<title>Hercules</title>
+	<description>Descriptin</description>
+	<image_a>ch_hercules_a.png</image_a>
+	<image_b>ch_hercules_b.png</image_b>
+</chopper>

@@ -1,0 +1,6 @@
+<chopper acceleration="0.4" speed="11" climb="5" strength="8" bombs="12" bombType="1" machinegun="50" cost="450">
+	<title>Comanche</title>
+	<description>N/A</description>
+	<image_a>ch_comanche_a.png</image_a>
+	<image_b>ch_comanche_b.png</image_b>
+</chopper>

@@ -1,0 +1,97 @@
+<map>
+	<settings>
+		<title>Map One</title>
+		<description></description>
+		<far_background>bg_storm.png</far_background>
+		<close_background>bg2_storm.png</close_background>
+		<enemyFireIntensity>95</enemyFireIntensity>		
+	</settings>
+
+	<objects>
+		<object id="1" sx="600" ex="1300" strength="5">
+			<img>tank1.png</img>
+			<type>tank</type>
+		</object>
+
+		<object id="1" sx="600" ex="1300" strength="5">
+			<img>tank1.png</img>
+			<type>tank</type>
+		</object>
+
+		
+		<object id="1" sx="910" ex="1400" strength="10">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+
+		<object id="1" sx="800" ex="940" strength="10">
+			<img>tank3.png</img>
+			<type>tank</type>
+		</object>		
+		
+		<object id="2" sx="1200" ex="1580" strength="10">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>				
+		<object id="2" sx="1800" ex="2280" strength="10">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>				
+		<object id="2" sx="1500" ex="1990" strength="13">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2100" ex="3000" strength="10">
+			<img>tank.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2150" ex="2950" strength="3">
+			<img>tank2.png</img>
+			<type>tank</type>
+		</object>
+		<object id="2" sx="2650" ex="3450" strength="6">
+			<img>tank3.png</img>
+			<type>tank</type>
+		</object>
+		
+		<object id="1" sx="615" ex="1400" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+
+		<object id="1" sx="900" ex="1100" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+
+
+		<object id="1" sx="1300" ex="1600" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+
+		
+		<object id="1" sx="1800" ex="2200" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>		
+
+		<object id="1" sx="2200" ex="2900" strength="1">
+			<img>captive1.png</img>		
+			<type>captive</type>
+		</object>
+		
+		<object id="1" sx="2460" ex="0" strength="5">
+			<img>house1.png</img>		
+			<type>building</type>
+		</object>
+
+		<object id="1" sx="185" ex="0" strength="5">
+			<img>building2.png</img>		
+			<type>building</type>
+			<title>Base</title>
+		</object>
+		
+	</objects>
+	
+</map>
